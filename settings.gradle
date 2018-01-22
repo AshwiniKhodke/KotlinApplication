@@ -1,1 +1,1 @@
-include ':app', ':ankomodule'
+include ':app', ':ankomodule', ':asyncope', ':statusbarnotifications', ':statusbarntfy'

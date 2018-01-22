@@ -81,6 +81,12 @@ class MainActivity : AppCompatActivity() {
                         }
 
                     }
+            button("Progress Dialog") {
+                onClick {
+                    progressDialog(message = "please wait......" , title = "fetching data")
+
+                }
+            }
 
                 }
             }

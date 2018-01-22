@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/KotlinProject.iml" filepath="$PROJECT_DIR$/KotlinProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/ankomodule/ankomodule.iml" filepath="$PROJECT_DIR$/ankomodule/ankomodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asyncope/asyncope.iml" filepath="$PROJECT_DIR$/asyncope/asyncope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statusbarnotifications/statusbarnotifications.iml" filepath="$PROJECT_DIR$/statusbarnotifications/statusbarnotifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statusbarntfy/statusbarntfy.iml" filepath="$PROJECT_DIR$/statusbarntfy/statusbarntfy.iml" />
     </modules>
   </component>
 </project>
